@@ -1,0 +1,15 @@
+C:\ProgProjects\HospiCasaG8.App\HospiCasa.App.Consola\bin\Debug\net6.0\HospiCasa.App.Consola.exe
+C:\ProgProjects\HospiCasaG8.App\HospiCasa.App.Consola\bin\Debug\net6.0\HospiCasa.App.Consola.deps.json
+C:\ProgProjects\HospiCasaG8.App\HospiCasa.App.Consola\bin\Debug\net6.0\HospiCasa.App.Consola.runtimeconfig.json
+C:\ProgProjects\HospiCasaG8.App\HospiCasa.App.Consola\bin\Debug\net6.0\HospiCasa.App.Consola.dll
+C:\ProgProjects\HospiCasaG8.App\HospiCasa.App.Consola\bin\Debug\net6.0\HospiCasa.App.Consola.pdb
+C:\ProgProjects\HospiCasaG8.App\HospiCasa.App.Consola\obj\Debug\net6.0\HospiCasa.App.Consola.csproj.AssemblyReference.cache
+C:\ProgProjects\HospiCasaG8.App\HospiCasa.App.Consola\obj\Debug\net6.0\HospiCasa.App.Consola.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProgProjects\HospiCasaG8.App\HospiCasa.App.Consola\obj\Debug\net6.0\HospiCasa.App.Consola.AssemblyInfoInputs.cache
+C:\ProgProjects\HospiCasaG8.App\HospiCasa.App.Consola\obj\Debug\net6.0\HospiCasa.App.Consola.AssemblyInfo.cs
+C:\ProgProjects\HospiCasaG8.App\HospiCasa.App.Consola\obj\Debug\net6.0\HospiCasa.App.Consola.csproj.CoreCompileInputs.cache
+C:\ProgProjects\HospiCasaG8.App\HospiCasa.App.Consola\obj\Debug\net6.0\HospiCasa.App.Consola.dll
+C:\ProgProjects\HospiCasaG8.App\HospiCasa.App.Consola\obj\Debug\net6.0\refint\HospiCasa.App.Consola.dll
+C:\ProgProjects\HospiCasaG8.App\HospiCasa.App.Consola\obj\Debug\net6.0\HospiCasa.App.Consola.pdb
+C:\ProgProjects\HospiCasaG8.App\HospiCasa.App.Consola\obj\Debug\net6.0\HospiCasa.App.Consola.genruntimeconfig.cache
+C:\ProgProjects\HospiCasaG8.App\HospiCasa.App.Consola\obj\Debug\net6.0\ref\HospiCasa.App.Consola.dll
